@@ -42,7 +42,7 @@ font-family: 'Titillium Web', sans-serif;
   }
   @media only screen and (max-width:480px){
     .head{
-        font-size: 25px;
+        font-size: 23px;
     }
     h6{
         font-size: 10px;
